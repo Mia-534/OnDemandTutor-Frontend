@@ -108,9 +108,9 @@ To get a local copy of the project up and running, follow these steps.
 Clone the repository:
 
 ```bash
-git clone https://github.com/vandatnguyen919/OnDemandTutor-Backend.git
+git clone https://github.com/trtien05/OnDemandTutor-Frontend.git
 
-cd OnDemandTutor-Backend
+cd OnDemandTutor-Frontend
 ```
 
 Configure the database
@@ -144,7 +144,7 @@ https://my-tutor-render.onrender.com/swagger-ui/index.html
 
 <a id="uc-diagram"></a>
 ## 4. Use Case Diagram
-<img src="./readme/images/UseCase.drawio.svg" />
+<img src="./readme/images/OnDemandTutor-UseCaseDiagram.drawio.svg" /> 
 
 <a id="db-design"></a>
 ## 5. Database Design
@@ -152,7 +152,7 @@ https://my-tutor-render.onrender.com/swagger-ui/index.html
 
 <a id="screen-flow"></a>
 ## 6. Screen Flow
-<img src="./readme/images/OnDemandTutor-Screen Flow.drawio.svg" />
+<img src="./readme/images/OnDemandTutor-ScreenFlow.drawio.svg" />
 
 <a id="team-members"></a>
 ## 7. Team members
